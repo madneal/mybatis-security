@@ -5,11 +5,7 @@ import com.intellij.openapi.actionSystem.AnActionEvent;
 import com.intellij.openapi.project.Project;
 import org.jetbrains.annotations.Nullable;
 
-/**
- * 日期 2018-11-30
- *
- * @author 吴志展
- */
+
 public class DbToolsMainAction extends AnAction {
     /**
      * 构造方法

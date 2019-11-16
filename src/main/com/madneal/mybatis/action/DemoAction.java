@@ -24,11 +24,7 @@ import com.madneal.mybatis.ui.PropertyGenerateUi;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 日期 2018-11-30
- *
- * @author 吴志展
- */
+
 public class DemoAction extends BaseGenerateAction {
     public DemoAction() {
         super(null);
