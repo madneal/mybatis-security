@@ -9,9 +9,7 @@ import com.madneal.mybatis.dom.model.Mapper;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
-/**
- * @author yanglin
- */
+
 public class MapperDescription extends DomFileDescription<Mapper> {
 
     public MapperDescription() {

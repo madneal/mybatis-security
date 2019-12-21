@@ -6,9 +6,7 @@ import com.madneal.mybatis.dom.model.Mapper;
 
 import org.jetbrains.annotations.NotNull;
 
-/**
- * @author yanglin
- */
+
 public class DeleteGenerator extends StatementGenerator {
 
     public DeleteGenerator(@NotNull String... patterns) {

@@ -9,10 +9,7 @@ import com.intellij.openapi.ui.Messages;
 import com.intellij.psi.PsiElement;
 import com.madneal.mybatis.ui.MainUI;
 
-/**
- * mybatis generator工具生成类
- * Created by kangtian on 2018/7/17.
- */
+
 public class MainAction extends AnAction {
 
 
