@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>cn.wuzhizhan.plugin.mybatis</id>
     <name>Free MyBatis plugin</name>
-    <vendor email="wuzhizhan@wuzhizhan.cn" url="https://github.com/wuzhizhan">wuzhizhan</vendor>
+    <vendor email="bing.ecnu@gmail.com" url="https://github.com/neal1991">neal1991</vendor>
 
     <description><![CDATA[
           Free Mybatis plugin <br/>
